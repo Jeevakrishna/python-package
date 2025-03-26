@@ -1,2 +1,1 @@
-## Lexer-tools 
-a python package 
+## Lexer-tools  
