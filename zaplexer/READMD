@@ -1,0 +1,32 @@
+# ZapLexer 
+
+A lightweight Python package that help student to develop they programming language .
+
+![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
+[![PyPI version](https://badge.fury.io/py/zaplexer.svg)](https://pypi.org/project/zaplexer/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Features ✨
+- Simple API: `from zaplexer import display`
+- Built-in file handling from `data/` directory
+- Clean terminal output formatting
+- Error handling for missing files
+- Zero external dependencies
+
+## Installation 📦
+
+### From PyPI
+```bash
+pip install zaplexer
+
+#Development Install
+ ```bash 
+git clone https://github.com/Jeevakrishna/zaplexer.git
+cd zaplexer
+pip install -e 
+
+#Usage 
+``` bash 
+from zaplexer import display 
+display("example.txt")
+
