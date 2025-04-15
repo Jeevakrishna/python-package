@@ -1,6 +1,1 @@
-# A python package 
-
-
-
-  
-
+This is a python package
