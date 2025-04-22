@@ -6,7 +6,7 @@ python setup.py sdist bdist_wheel
 
 twine upload --repository testpypi dist/*
 
-#For Upload in PYPI.org
+# For Upload in PYPI.org
 twine upload dist/* 
 
 # Clean old builds
