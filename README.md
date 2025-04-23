@@ -9,6 +9,6 @@ twine upload --repository testpypi dist/*
 # For Upload in PYPI.org
 twine upload dist/* 
 
-# Clean old builds
+# Clean old build
 rm -rf build/ dist/ n8py.egg-info/
 
