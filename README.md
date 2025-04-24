@@ -1,6 +1,6 @@
 # Install required tools
 
-bash```
+```
 pip install wheel twine
 pip install setuptools
 ```
