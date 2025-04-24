@@ -1,5 +1,7 @@
 # Install required tools
 pip install wheel twine
+pip install
+
 
 # Build source distribution (.tar.gz) and wheel (.whl)
 python setup.py sdist bdist_wheel
