@@ -6,7 +6,9 @@ pip install setuptools
 ```
 
 # Build source distribution (.tar.gz) and wheel (.whl)
+```
 python setup.py sdist bdist_wheel
+```
 
 twine upload --repository testpypi dist/*
 
