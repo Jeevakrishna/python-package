@@ -9,8 +9,9 @@ pip install setuptools
 ```
 python setup.py sdist bdist_wheel
 ```
-
+```
 twine upload --repository testpypi dist/*
+```
 
 # For Upload in PYPI.org
 twine upload dist/* 
