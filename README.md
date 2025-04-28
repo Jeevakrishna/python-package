@@ -2,6 +2,8 @@
 
 ```
 pip install wheel twine
+```
+```
 pip install setuptools
 ```
 
