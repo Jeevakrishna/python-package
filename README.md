@@ -21,5 +21,6 @@ twine upload dist/*
 ```
 
 # Clean old build
+```
 rm -rf build/ dist/ n8py.egg-info/
-
+```
