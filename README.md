@@ -29,4 +29,9 @@ rm -rf build/ dist/ n8py.egg-info/
 ```
 !pip intsall saslexer
 ```
+# To install zaplexer
+```
+!pip install zaplexer
+
+``
 
